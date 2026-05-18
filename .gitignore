@@ -1,0 +1,19 @@
+__pycache__/
+
+calorie-lens-frontend/
+models/
+public/
+
+api.py
+postcss.config.js
+requirements.txt
+tailwind.config.js
+index.html
+main.js
+interface.py
+package-lock.json
+package.json
+README.md
+
+Food image recognition and calories prediction.ipynb
+testing_Model.ipynb
